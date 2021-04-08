@@ -1,0 +1,1 @@
+This is the repository for the AD 490 Capstone project.  The purpose of this project is to create a new symptoms tracker app where users can report on symptoms that is usually not discussed by researchers.  This could potentially open up to more research and/or even a cure.
