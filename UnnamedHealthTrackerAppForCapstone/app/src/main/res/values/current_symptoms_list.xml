@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="current_symptoms_list">
+        <item>Tremors</item>
+        <item>Chills</item>
+        <item>Stiffness</item>
+    </string-array>
+</resources>

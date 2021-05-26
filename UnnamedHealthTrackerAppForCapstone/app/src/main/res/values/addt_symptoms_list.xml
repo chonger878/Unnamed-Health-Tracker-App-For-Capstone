@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="addt_symptoms_list">
+        <item>Tremors</item>
+        <item>Chills</item>
+        <item>Stiffness</item>
+        <item>Fatigue</item>
+        <item>Hot Flashes</item>
+    </string-array>
+</resources>

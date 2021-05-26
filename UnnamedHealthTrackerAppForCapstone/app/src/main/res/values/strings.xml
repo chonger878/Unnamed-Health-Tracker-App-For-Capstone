@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Unnamed Health Tracker App For Capstone</string>
+    <string name = "firstName">First Name</string>
+    <string name = "lastName">Last Name</string>
+    <string name = "newUserName">New Username</string>
+    <string name = "newPassword">New Password</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="addtsympheader">Enter your additional symptoms here</string>
+    <string name="newSymptom">Enter new symptom here</string>
+    <string name="addMoreSymptoms">More symptoms? No problem! Add away!</string>
+    <string name="enter_your_symptom_here">Enter your symptom here</string>
+    <string name="submit_symptom">Submit Symptom</string>
+</resources>
